@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Modulverwaltung</string>
+    <string name="title_main">Meine Module</string>
+    <string name="average_grade_format">Durchschnitt: %1$.2f</string>
+    <string name="hint_module_number">Modulnummer (z.B. M335)</string>
+    <string name="hint_module_title">Modultitel</string>
+    <string name="hint_zp_note">ZP-Note (optional)</string>
+    <string name="hint_lb_note">LB-Note (optional)</string>
+    <string name="btn_save">Speichern</string>
+    <string name="error_min_length">Mindestens 4 Zeichen erforderlich</string>
+    <string name="error_invalid_number">Ungültige Zahl</string>
+</resources>
